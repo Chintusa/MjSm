@@ -49,7 +49,7 @@
 
 #### **Programming Languages:**
 <p>
-  <img align="right" alt="Coding" src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" data-canonical-src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" style="width: 70%; display: inline-block;" data-target="animated-image.originalImage">
+  <img align="right" alt="Coding" src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" data-canonical-src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" style="width: 55%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
