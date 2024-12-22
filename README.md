@@ -9,14 +9,16 @@
 
 ### 👨‍💻 About Me:
 - 🔭 Currently working on **[Youth Connect](#)** – A platform for empowering young innovators and entrepreneurs.
-- 🌱 Learning **React** and **Spring Boot** to master full-stack development.
-- 👯 Looking to collaborate on **cloud-based projects**.
+- 🌱 Learning **React** and **Microservices** to master full-stack development.
+- 👯 Looking to collaborate on **server-based projects**.
 - 🤝 Seeking guidance on **DevOps**.
 - 💬 Ask me about **Java (J2EE), Python, ORM**, and **Backend Development**.
 - 📫 Reach me at **jhasketansa86@gmail.com**.
-- ⚡ Fun fact: *My code doesn’t just run—it celebrates!*
+- ⚡ Fun fact: *My code doesn't just run—it walks, jogs, and occasionally dances!.*
 
 ---
+
+
 
 ### 🌐 Connect with Me:
 <p align="left">
@@ -44,13 +46,16 @@
 ---
 
 ### 🛠️ Tools & Technologies:
+
 #### **Programming Languages:**
+<p>
+  <img align="right" alt="Coding" src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" data-canonical-src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" style="width: 70%; display: inline-block;" data-target="animated-image.originalImage">
+</p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 
 #### **Frameworks and Libraries:**
 <p>
@@ -81,14 +86,13 @@
 
 ---
 
+
 ### 📊 GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chintusa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chintusa&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chintusa&" alt="GitHub Streak" /></p>
-<!-- ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Chintusa/MjSm/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p> -->
+
+---
 
