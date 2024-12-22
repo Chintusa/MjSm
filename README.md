@@ -87,8 +87,8 @@
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chintusa&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chintusa&" alt="GitHub Streak" /></p>
-### 🐍 Contribution Snake
+<!-- ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Chintusa/MjSm/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+</p> -->
 
